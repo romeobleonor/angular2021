@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aa2021"
+    }
+  },
+  "defaultProject": "aa2021",
+  "cli": {
+    "analytics": false
+  }
 }
